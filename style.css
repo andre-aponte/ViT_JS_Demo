@@ -1,0 +1,17 @@
+body {
+    background-color: goldenrod;
+}
+
+#div1 {
+    background-color: aquamarine;
+    padding: 3rem;
+}
+
+#div2 {
+    background-color: blueviolet;
+    margin: 5rem;
+}
+
+button:hover {
+    cursor: pointer;ß
+}
